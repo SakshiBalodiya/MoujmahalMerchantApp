@@ -3,7 +3,8 @@
 
 /** Ionic CSS Variables **/
 :root {
-	--ion-color-primary: #006c35;
+	// --ion-color-primary: #006c35;
+	--ion-color-primary: #808080;
 	--ion-color-primary-rgb: 0,108,53;
 	--ion-color-primary-contrast: #ffffff;
 	--ion-color-primary-contrast-rgb: 255,255,255;
@@ -66,7 +67,8 @@
 }
 //div css starts from here
 .div-item {
-    background-color: #006c35;
+    // background-color: #006c35;
+	background-color: #808080 !important;
     color:#fff;
     height:16vh;
     border-bottom-left-radius: 60px;
